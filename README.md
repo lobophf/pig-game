@@ -8,6 +8,12 @@
 	<a href="#balance_scale-license">License</a>	
 </p>
 
+<p align="center">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lobophf/pig-game">	
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lobophf/pig-game">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> 
+<p>
+
 ## :question: About:
 **Pig Game** is a free game made for you to spend free time. The rules are simple:
 
